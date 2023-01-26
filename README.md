@@ -124,6 +124,13 @@ If you use this function in your work, please cite the following reference:
 [generateData—A 2D data generator](https://doi.org/10.1016/j.simpa.2020.100017).
 Software Impacts, 4:100017. doi: [10.1016/j.simpa.2020.100017](https://doi.org/10.1016/j.simpa.2020.100017)
 
+## Multidimensional alternative
+
+The [*MOCluGen*](https://github.com/clugen/MOCluGen) toolbox extends
+*generateData* with arbitrary dimensions and statistical distributions.
+Therefore, *generateData* offers a limited subset of the functionality provided
+by *MOCluGen*, although it's probably simpler to use.
+
 ## License
 
 This script is made available under the [MIT License](LICENSE).
